@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Notepad++
+Type=Application
+MimeType=text/plain;
+Terminal=false
+Categories=TextEditor;
+X-TDE-StartupNotify=true
+Comment=Notepad++ for Linux
+Icon=notepadpp.png
+Exec="$HOME/.win64/notepadpp.sh" %u
