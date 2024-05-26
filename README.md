@@ -2,7 +2,6 @@
 notepadpp x64 wine installation.  
 
 This is a notepad++ x64 installer for linux, with the help of wine :)  
-  
 The installer was designed for q4os trinity, but should work on any recent debian distro (maybe with some adjustements to the .desktop files).  
   
 Instructions:  
